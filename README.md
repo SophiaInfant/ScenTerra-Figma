@@ -1,2 +1,27 @@
 # ScenTerra-Figma
 Figma design source and exports for ScenTerra Perfume Store.
+
+This repository contains the **ScenTerra** design file created in Figma.  
+It includes the latest design layouts, color schemes, and UI elements for the project.
+
+## 📂 Contents
+- `ScenTerra.fig` – Main Figma project file  
+- Exported assets (if any)
+- Documentation & design notes (optional)
+
+## 📜 How to Open the `.fig` File
+1. Download the `.fig` file from this repository.
+2. Go to [Figma](https://www.figma.com/).
+3. Create a new design file or open an existing one.
+4. Click **Import** (top-right) and select the downloaded `.fig` file.
+
+## ⚠️ File Size
+If the file is large, it may not display properly in GitHub’s preview.  
+Please download it directly to view in Figma.
+
+## 📄 License
+This project is licensed under the **All Rights Reserved** license.  
+You **may not** redistribute, modify, or use the designs without explicit permission from the owner.
+
+---
+**Author:** Sophia Infant
